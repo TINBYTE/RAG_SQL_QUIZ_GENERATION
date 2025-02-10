@@ -79,14 +79,6 @@ RAG-System-Exam-Generation/
 - **Youssef**: NLP for Question Generation  
 - **Abdelfattah Bouhlali**: Answer Verification, Grading, and User Interface  
 
----
-
-## **🚧 Current Status**  
-- [ ] Knowledge base construction  
-- [ ] Document retrieval and preprocessing  
-- [ ] Question generation  
-- [ ] Answer verification and grading  
-- [ ] User interface  
 
 ---
 
